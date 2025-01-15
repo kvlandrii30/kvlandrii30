@@ -1,5 +1,3 @@
-# User Profile Repository
-
 Welcome to my GitHub profile repository! This repository serves as a central hub to introduce myself, showcase my skills, and provide insights into my work and interests.
 
 ## About Me
